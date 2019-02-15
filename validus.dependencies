@@ -1,13 +1,13 @@
 [
   {
-    "repository": "WimN/android_device_oppo_msm8974-common",
+    "repository": "GZOSP-Devices/android_device_oppo_msm8974-common",
     "target_path": "device/oppo/msm8974-common",
-    "branch": "lineage-16.0"
+    "branch": "9.0"
   },
   {
-    "repository": "WimN/android_device_oppo_common",
+    "repository": "GZOSP-Devices/android_device_oppo_common",
     "target_path": "device/oppo/common",
-    "branch": "lineage-16.0"
+    "branch": "9.0-bacon"
   },
   {
     "repository": "WimN/android_kernel_oppo_msm8974",
