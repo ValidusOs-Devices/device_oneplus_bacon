@@ -12,12 +12,12 @@
   {
     "repository": "WimN/android_kernel_oppo_msm8974",
     "target_path": "kernel/oppo/msm8974",
-    "branch": "lineage-15.1"
+    "branch": "9.0"
   },
   {
     "repository":  "GZOSP-Devices/device_qcom_sepolicy-legacy",
     "target_path": "device/qcom/sepolicy-legacy",
-    "branch":      "9.0"
+    "branch": "9.0"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
