@@ -1,11 +1,11 @@
 [
   {
-    "repository": "ValidusOs-Devices/android_device_oppo_msm8974-common",
+    "repository": "WimN/android_device_oppo_msm8974-common",
     "target_path": "device/oppo/msm8974-common",
     "branch": "9.0"
   },
   {
-    "repository": "ValidusOs-Devices/device_oppo_common",
+    "repository": "WimN/android_device_oppo_common",
     "target_path": "device/oppo/common",
     "branch": "9.0"
   },
