@@ -33,10 +33,5 @@
   "repository": "TheMuppets/proprietary_vendor_oppo",
   "target_path": "vendor/oppo",
   "branch": "lineage-16.0"
-  },
-  {
-  "repository": "LineageOS/android_external_ant-wireless_antradio-library",
-  "target_path": "external/ant-wireless/antradio-library",
-  "brancj": "lineage-16.0"
   }
 ]
