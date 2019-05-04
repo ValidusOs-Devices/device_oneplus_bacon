@@ -1,18 +1,18 @@
 [
   {
-    "repository": "WimN/android_device_oppo_msm8974-common",
+    "repository": "LineageOs/android_device_oppo_msm8974-common",
     "target_path": "device/oppo/msm8974-common",
-    "branch": "9.0"
+    "branch": "lineage-16.0"
   },
   {
-    "repository": "WimN/android_device_oppo_common",
+    "repository": "LineageOs/android_device_oppo_common",
     "target_path": "device/oppo/common",
-    "branch": "9.0"
+    "branch": "lineage-16.0"
   },
   {
-    "repository": "WimN/android_kernel_oppo_msm8974",
+    "repository": "LineageOs/android_kernel_oppo_msm8974",
     "target_path": "kernel/oppo/msm8974",
-    "branch": "9.0"
+    "branch": "lineage16.0"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
