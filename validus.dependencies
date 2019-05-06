@@ -28,5 +28,10 @@
   "repository": "TheMuppets/proprietary_vendor_oppo",
   "target_path": "vendor/oppo",
   "branch": "lineage-16.0"
+  },
+  {
+  "repository": "WimValidus/android_hardware_lineage_interfaces",
+  "target_path": "hardware_lineage_interfaces",
+  "branch": "lineage-16.0"
   }
 ]
