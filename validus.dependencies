@@ -5,7 +5,7 @@
     "branch": "lineage-16.0"
   },
   {
-    "repository": "LineageOs/android_device_oppo_common",
+    "repository": "WimValidus/android_device_oppo_common",
     "target_path": "device/oppo/common",
     "branch": "lineage-16.0"
   },
