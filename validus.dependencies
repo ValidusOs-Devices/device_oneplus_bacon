@@ -1,4 +1,8 @@
 [
+  { "repository": "LineageOs/android_lineage-sdk",
+    "target_path": "lineage-sdk",
+    "branch": "lineage-16.0"
+  },
   {
     "repository": "LineageOs/android_device_oppo_msm8974-common",
     "target_path": "device/oppo/msm8974-common",
